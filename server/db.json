@@ -1,0 +1,80 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Classic Leather Wallet",
+            "description": "Made With Genuine Dry-Milled Leather Soft Poly-Cotton Lining Inside Holds Up To 8 Cards One Pocket For Bills & Cash Slim And Easy To Fit In Pocket.",
+            "image": "https://m.media-amazon.com/images/I/412W2TPnRCL._SY300_SX300_.jpg",
+            "date":"01/05/2023"
+        },
+        {
+            "id": 2,
+            "name": "Organic Cotton T-Shirt",
+            "description": "Organic Skin Men's T-Shirt :- Introducing the Everyday Organic Skin Basic Tee - the epitome of style & comfort.",
+            "image": "https://m.media-amazon.com/images/I/51KbE2GMzNL._UY879_.jpg",
+            "date":"01/05/2023"
+        },
+        {
+            "id": 3,
+            "name": "Stainless Steel Water Bottle",
+            "description": "Stainless Steel Water Bottle.",
+            "image": "https://m.media-amazon.com/images/I/61Rn2wQFZWL._SX569_.jpg",
+            "date":"01/05/2023"
+        },
+        {
+            "id": 4,
+            "name": "Smart Watch with Heart Rate Monitor",
+            "description": "【Bigger Round Display】- Comes with a TFT Color Full Touch Screen and a 240*240 Pixel High Resolution this watch is covered to flaunt the sleek and stylish look always.",
+            "image": "https://m.media-amazon.com/images/I/819DWQLgjKL._SX679_.jpg",
+            "date":"01/05/2023"
+        },
+        {
+            "id": 5,
+            "name": "Bluetooth Wireless Earbuds",
+            "description": "40hrs Playback Time: 10hrs/Earbud + 30hrs Case Charge.",
+            "image": "https://m.media-amazon.com/images/I/41BHmpWFbOL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Himalayan Salt Lamp",
+            "description": "Increased Natural Energy & Reduction In Stress Levels – Himalayan rock salt lamps are said to absorb positive ions from the air.",
+            "image": "https://m.media-amazon.com/images/I/71GOAl6rKZL._SX679_.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Portable Mini Projector",
+            "description": "✔️ Native 1080P & 650 ANSI Lumens – Native 1080P full HD with 650 ANSI Lumens high brightness provide ultra-high-definition and high-brightness viewing experience.",
+            "image": "https://m.media-amazon.com/images/I/61diYe-H-TL._SX569_.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Electric Coffee Grinder",
+            "description": "PRACTICAL! Easy One Click Operation ensures you can start grinding your coffee beans easily with just the press of a button.",
+            "image": "https://m.media-amazon.com/images/I/71vOyG8GeoL._SX522_.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Adjustable Dumbbell Set",
+            "description": "XRT65 adjustable dumbbells provide a space-saving and highly efficient way to replace multiple sets of weights and dumbbells.",
+            "image": "https://m.media-amazon.com/images/I/518rw1XHBpL._SY450_.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Yoga Mat with Carrying Strap",
+            "description": "DURABLE & PREMIUM MATERIAL: Premium EVA in extra-thick Eva and high-density foam core provide excellent comfort and support and are suitable for home and commercial use.",
+            "image": "https://m.media-amazon.com/images/I/51tdnaKlSJL._SY450_.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Handheld Vacuum Cleaner",
+            "description": "【High Power Suction】 This hand held vacuuming cordless uses a built-in cyclone design, which makes this compact handheld vacuum cleaner can still provide 5200pa continuous strong suction.",
+            "image": "https://m.media-amazon.com/images/I/71+BHZtdFaL._SX522_.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Hair Straightening Brush",
+            "description": "StyleCare Essential Heated straightening brush.",
+            "image": "https://m.media-amazon.com/images/I/51F4Fsq42SL._SY450_.jpg"
+        }
+    ]
+}
